@@ -1,4 +1,3 @@
-layout_spectrum: 0.9454171108081937
 typography_spectrum: 0.8299748809076846
 color:
   brandStrength: 0.6428780553396791
@@ -11,4 +10,6 @@ color:
     - '#BCC1D7'
     - '#F99404'
     - '#9E4065'
+layout_spectrum: 0.9454171108081937
 name: JoshuaDuCheneAudio
+title: Joshua Du Chene Audio
